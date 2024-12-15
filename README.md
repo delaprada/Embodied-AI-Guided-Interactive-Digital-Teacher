@@ -1,4 +1,4 @@
-# Embodied-AI-Guided-Interactive-Digital-Teacher-for-Education
+# Embodied-AI-Guided-Interactive-Digital-Teacher
 [Paper](https://dl.acm.org/doi/10.1145/3680533.3697070)
 
 [SIGGRAPH Asia 2024 Educator's Forum] Official implementation of the paper "Embodied AI-Guided Interactive Digital Teacher for Education"
